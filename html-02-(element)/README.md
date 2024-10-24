@@ -1,3 +1,8 @@
+### Element
+An element is defined by a start tag, some content, and end tag.
+
+` <startTag> some content </endTag> `
+
 #### HTML Heading
 Html heading are defined with the `<h1>` to `<h6>` tags.
 ```
@@ -30,3 +35,9 @@ The source file `src` , alternative text `alt` , width, and height as provide as
 
 ``` <img src = "4.jpg" alt = "This is a image" width = "100%" height = "100%"> ```
 
+#### HTML empty element 
+Html elements with no content are called empty element.
+The ` <br> ` tag defined a line break, and is an empty element without a closing tag.
+
+#### HTML is not case sensitive.
+ 
